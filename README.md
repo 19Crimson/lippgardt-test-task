@@ -1,5 +1,4 @@
-# lippgardt-test-task
-Test Project for Lippgardt &amp; Co
+#Тестовое задание для Lippgardt &amp; Co
 
 Данное решение содержит 3 проекта:
 
